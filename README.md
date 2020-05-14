@@ -31,6 +31,7 @@ related to Yandex.Cloud Functions.
 * [monsterzz/ycf-python-boto3](https://github.com/monsterzz/ycf-python-boto3)
 * [monsterzz/ycf-pgsql-example](https://github.com/monsterzz/ycf-pgsql-example)
 * [monsterzz/yc-serverless-python-deps](https://github.com/monsterzz/yc-serverless-python-deps)
+* [monsterzz/yc-vm-backup+terraform](https://github.com/monsterzz/yc-vm-backup)
 
 ## Tutorials
 
