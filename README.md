@@ -32,6 +32,8 @@ related to Yandex.Cloud Functions.
 * [monsterzz/ycf-pgsql-example](https://github.com/monsterzz/ycf-pgsql-example)
 * [monsterzz/yc-serverless-python-deps](https://github.com/monsterzz/yc-serverless-python-deps)
 * [monsterzz/yc-vm-backup+terraform](https://github.com/monsterzz/yc-vm-backup)
+* [nikolaymatrosov/yc-serverless-snapshot](https://github.com/nikolaymatrosov/yc-serverless-snapshot)
+* [nikolaymatrosov/go-yc-pin-db-master](https://github.com/nikolaymatrosov/go-yc-pin-db-master) pin master database in preffered AZ
 
 ## Tutorials
 
