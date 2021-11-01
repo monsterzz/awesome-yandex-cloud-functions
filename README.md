@@ -21,6 +21,7 @@ related to Yandex.Cloud Functions.
 ## Libraries
 
 * [kurtgn/yappa](https://github.com/kurtgn/yappa) - Serverless Python for Yandex Cloud Functions
+* [vitalets/yandex-cloud-deploy-fn](https://github.com/vitalets/yandex-cloud-deploy-fn) - CLI for deploying Yandex Cloud Functions on Node.js
 
 ## GitHub Actions
 
